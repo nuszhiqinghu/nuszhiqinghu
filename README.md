@@ -15,3 +15,6 @@ Welcome to my profile！
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/nuszhiqinghu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/zhiqing-hu-a908a0248/)
+
+
+[![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://photos.google.com/search/_tra_/photo/AF1QipPw1enkY8NdkGrvEDXZKyDFP8JOqbInSyM85Qoa)
