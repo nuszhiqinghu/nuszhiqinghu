@@ -1,5 +1,4 @@
 # Hi there,I’m Zhiqing 👋 
-Welcome to my profile！
 ### Connect with me 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/nuszhiqinghu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/zhiqing-hu-a908a0248/)
@@ -9,11 +8,15 @@ Welcome to my profile！
 
 ### About Me...
 
-- 🎓985 Bachelor/NUS Master
+- 🎓 985 Bachelor/NUS Master
 
-- 👨‍💻Golang Backend Developer
+- 👨‍💻 Golang Backend Developer
 
-- 🦋Golang/Python/Redis/Kubernetes/Docker/DevOps
+- 🦋 Golang/Python/Redis/Kubernetes/Docker/DevOps
+
+- 📖 Chinese blog：https://home.cnblogs.com/u/3079441
+
+
 
 ### Programming skills
 <p>
