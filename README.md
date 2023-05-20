@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi there,I’m Zhiqing 👋 
 Welcome to my profile！
+
+### About Me...
+
+🎓985 Bachelor/NUS Master
+
+👨‍💻Golang Backend Developer
+
+👀Golang/Python/Redis/Kubernetes
+
+
+### Connect with me 
+
 <!--
 **nuszhiqinghu/nuszhiqinghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
