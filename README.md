@@ -14,7 +14,7 @@
 
 - 🦋 Golang/Python/Redis/Kubernetes/Docker/DevOps
 
-- 📖 Chinese blog：https://home.cnblogs.com/u/3079441
+- 📖 Chinese blog：https://www.cnblogs.com/nuszhiqinghublog/
 
 
 
