@@ -14,7 +14,7 @@
 
 - 🦋 Golang/Python/Redis/Kubernetes/Docker/DevOps
 
-- 📖 Chinese blog：https://www.cnblogs.com/nuszhiqinghublog/
+- 📖 My Blog：https://nuszhiqinghu.github.io/
 
 
 ### Programming skills
