@@ -18,8 +18,7 @@
 
 
 ### Programming skills
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=nuszhiqinghu&theme=shades-of-purple&show_icons=true&hide_border=true" />
+
   
 
                         
